@@ -19,7 +19,7 @@ else:
     st.error("API key not found!")    
 
 import requests
-impmdort pandas as pd
+import pandas as pd
 
 st.subheader("Select a Stock")
 
